@@ -17,8 +17,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="groovy-2.4.0" level="application" />
-    <orderEntry type="library" name="groovy-2.4.0" level="application" />
+    <orderEntry type="library" name="groovy-2.4.6" level="application" />
   </component>
   <component name="org.twodividedbyzero.idea.findbugs">
     <option name="_basePreferences">

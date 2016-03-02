@@ -5,20 +5,20 @@
  * Copyright 2016 The Agency for Restructuring and
  * Modernisation of Agriculture (ARMA).
  * ***********************************************************
- * Opis: patrz ni¿ej w komentarzach javadoc.
+ * Opis: patrz niï¿½ej w komentarzach javadoc.
  * ***********************************************************
- * Osoba odpowiedzialna: Przemys³aw Socha
+ * Osoba odpowiedzialna: Przemysï¿½aw Socha
  ***********************************************************/
 
 package euler.util;
 
 public class FiniteArithmeticProgression {
 
-    private int first;
-    private int step;
-    private int n;
+    private long first;
+    private long step;
+    private long n;
 
-    public FiniteArithmeticProgression(int first, int step, int n) {
+    public FiniteArithmeticProgression(long first, long step, long n) {
         this.first = first;
         this.step = step;
         this.n = n;
@@ -29,7 +29,7 @@ public class FiniteArithmeticProgression {
     }
 
     // 0-based indexes
-    public int member(int which) {
+    public long member(long which) {
         return first + which * step;
     }
 
