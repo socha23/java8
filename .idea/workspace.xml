@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90c2788-ca17-4c00-9687-4d7d43a1e7c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/euler/LargestPrimeFactor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/euler/LargestPalindromeProduct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/euler/util/PrimeFactors.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/euler/SmallestMultiple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/euler/LargestPrimeFactor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/euler/util/PrimeFactors.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/euler/LargestPalindromeProduct.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java8.iws" />
@@ -46,10 +46,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,9 +56,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,20 +78,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="985" column="31" selection-start-line="985" selection-start-column="31" selection-end-line="985" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#51408#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#44628#44629#0" expanded="false" />
-                <element signature="e#44684#44685#0" expanded="false" />
-                <element signature="e#44888#44889#0" expanded="false" />
-                <element signature="e#44974#44975#0" expanded="false" />
-                <element signature="e#45701#45702#0" expanded="false" />
-                <element signature="e#45745#45746#0" expanded="false" />
-                <element signature="e#46882#46883#0" expanded="false" />
-                <element signature="e#46925#46926#0" expanded="false" />
-                <element signature="e#46978#46979#0" expanded="false" />
-                <element signature="e#47060#47061#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,45 +88,36 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#73414#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#5034#5035#0" expanded="false" />
-                <element signature="e#5067#5068#0" expanded="false" />
-                <element signature="e#6418#6419#0" expanded="false" />
-                <element signature="e#6460#6461#0" expanded="false" />
-                <element signature="e#6519#6520#0" expanded="false" />
-                <element signature="e#6558#6559#0" expanded="false" />
-                <element signature="e#6623#6624#0" expanded="false" />
-                <element signature="e#6662#6663#0" expanded="false" />
-                <element signature="e#6724#6725#0" expanded="false" />
-                <element signature="e#6763#6764#0" expanded="false" />
-                <element signature="e#6838#6839#0" expanded="false" />
-                <element signature="e#6884#6885#0" expanded="false" />
-                <element signature="e#16803#16804#0" expanded="false" />
-                <element signature="e#16858#16859#0" expanded="false" />
-                <element signature="e#17475#17476#0" expanded="false" />
-                <element signature="e#17540#17541#0" expanded="false" />
-                <element signature="e#18157#18158#0" expanded="false" />
-                <element signature="e#18222#18223#0" expanded="false" />
-                <element signature="e#27827#27828#0" expanded="false" />
-                <element signature="e#27887#27888#0" expanded="false" />
-                <element signature="e#33990#33991#0" expanded="false" />
-                <element signature="e#34045#34046#0" expanded="false" />
-                <element signature="e#39693#39710#0" expanded="false" />
-                <element signature="e#47301#47328#0" expanded="false" />
-                <element signature="e#73331#73332#0" expanded="false" />
-                <element signature="e#73379#73380#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpecialPythagoreanTriplet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpecialPythagoreanTriplet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/euler/SpecialPythagoreanTriplet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5895954">
+            <state vertical-scroll-proportion="0.0">
               <caret line="23" column="58" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SummationOfPrimes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/euler/SummationOfPrimes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4194079">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SieveOfEratosthenes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/euler/util/SieveOfEratosthenes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="48" column="39" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -200,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/euler/util/ListUtil.java" />
         <option value="$PROJECT_DIR$/src/euler/LargestProductInASeries.java" />
         <option value="$PROJECT_DIR$/src/euler/SpecialPythagoreanTriplet.java" />
+        <option value="$PROJECT_DIR$/src/euler/SummationOfPrimes.java" />
       </list>
     </option>
   </component>
@@ -212,10 +186,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1921" />
-    <option name="y" value="1" />
-    <option name="width" value="1278" />
-    <option name="height" value="982" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -240,8 +214,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -359,7 +333,7 @@
       <recent name="tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpecialPythagoreanTriplet">
+  <component name="RunManager" selected="Application.SummationOfPrimes">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -565,6 +539,21 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="SummationOfPrimes" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="euler.SummationOfPrimes" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java8" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="NthPrime" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="euler.NthPrime" />
@@ -692,17 +681,18 @@
       <patterns />
       <method />
     </configuration>
-    <list size="10">
+    <list size="11">
       <item index="0" class="java.lang.String" itemvalue="Application.LargestProductInASeries" />
       <item index="1" class="java.lang.String" itemvalue="Application.SpecialPythagoreanTriplet" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NthPrime" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LargestPrimeFactor" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LargestPalindromeProduct" />
-      <item index="5" class="java.lang.String" itemvalue="Application.SmallestMultiple" />
-      <item index="6" class="java.lang.String" itemvalue="Application.SumSquareDifference" />
-      <item index="7" class="java.lang.String" itemvalue="Application.EvenFibonacciNumbers" />
-      <item index="8" class="java.lang.String" itemvalue="Application.Multiples" />
-      <item index="9" class="java.lang.String" itemvalue="JUnit.Unit tests" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SummationOfPrimes" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NthPrime" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LargestPrimeFactor" />
+      <item index="5" class="java.lang.String" itemvalue="Application.LargestPalindromeProduct" />
+      <item index="6" class="java.lang.String" itemvalue="Application.SmallestMultiple" />
+      <item index="7" class="java.lang.String" itemvalue="Application.SumSquareDifference" />
+      <item index="8" class="java.lang.String" itemvalue="Application.EvenFibonacciNumbers" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Multiples" />
+      <item index="10" class="java.lang.String" itemvalue="JUnit.Unit tests" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -721,21 +711,21 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1921" y="1" width="1278" height="982" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293979" sideWeight="0.48688525" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33530107" sideWeight="0.52131146" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31487513" sideWeight="0.52342916" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.49812934" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33530107" sideWeight="0.47868854" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31487513" sideWeight="0.4765708" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25491804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16773163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -774,7 +764,7 @@
     <entry file="file://$PROJECT_DIR$/src/euler/LargestProductInASeries.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -785,20 +775,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/euler/util/ListUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -816,20 +801,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="985" column="31" selection-start-line="985" selection-start-column="31" selection-end-line="985" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#51408#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#44628#44629#0" expanded="false" />
-            <element signature="e#44684#44685#0" expanded="false" />
-            <element signature="e#44888#44889#0" expanded="false" />
-            <element signature="e#44974#44975#0" expanded="false" />
-            <element signature="e#45701#45702#0" expanded="false" />
-            <element signature="e#45745#45746#0" expanded="false" />
-            <element signature="e#46882#46883#0" expanded="false" />
-            <element signature="e#46925#46926#0" expanded="false" />
-            <element signature="e#46978#46979#0" expanded="false" />
-            <element signature="e#47060#47061#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -837,36 +809,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/SpecialPythagoreanTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/LargestProductInASeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#73414#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#5034#5035#0" expanded="false" />
-            <element signature="e#5067#5068#0" expanded="false" />
-            <element signature="e#6418#6419#0" expanded="false" />
-            <element signature="e#6460#6461#0" expanded="false" />
-            <element signature="e#6519#6520#0" expanded="false" />
-            <element signature="e#6558#6559#0" expanded="false" />
-            <element signature="e#6623#6624#0" expanded="false" />
-            <element signature="e#6662#6663#0" expanded="false" />
-            <element signature="e#6724#6725#0" expanded="false" />
-            <element signature="e#6763#6764#0" expanded="false" />
-            <element signature="e#6838#6839#0" expanded="false" />
-            <element signature="e#6884#6885#0" expanded="false" />
-            <element signature="e#16803#16804#0" expanded="false" />
-            <element signature="e#16858#16859#0" expanded="false" />
-            <element signature="e#17475#17476#0" expanded="false" />
-            <element signature="e#17540#17541#0" expanded="false" />
-            <element signature="e#18157#18158#0" expanded="false" />
-            <element signature="e#18222#18223#0" expanded="false" />
-            <element signature="e#27827#27828#0" expanded="false" />
-            <element signature="e#27887#27888#0" expanded="false" />
-            <element signature="e#33990#33991#0" expanded="false" />
-            <element signature="e#34045#34046#0" expanded="false" />
-            <element signature="e#39693#39710#0" expanded="false" />
-            <element signature="e#47301#47328#0" expanded="false" />
-            <element signature="e#73331#73332#0" expanded="false" />
-            <element signature="e#73379#73380#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/util/StreamUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/util/ListUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ListUtilSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="985" column="31" selection-start-line="985" selection-start-column="31" selection-end-line="985" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -916,10 +919,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -962,10 +962,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,13 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/euler/util/SieveOfEratosthenes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/euler/NthPrime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1071,10 +1061,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1082,20 +1069,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="985" column="31" selection-start-line="985" selection-start-column="31" selection-end-line="985" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#51408#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#44628#44629#0" expanded="false" />
-            <element signature="e#44684#44685#0" expanded="false" />
-            <element signature="e#44888#44889#0" expanded="false" />
-            <element signature="e#44974#44975#0" expanded="false" />
-            <element signature="e#45701#45702#0" expanded="false" />
-            <element signature="e#45745#45746#0" expanded="false" />
-            <element signature="e#46882#46883#0" expanded="false" />
-            <element signature="e#46925#46926#0" expanded="false" />
-            <element signature="e#46978#46979#0" expanded="false" />
-            <element signature="e#47060#47061#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,36 +1077,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#73414#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#5034#5035#0" expanded="false" />
-            <element signature="e#5067#5068#0" expanded="false" />
-            <element signature="e#6418#6419#0" expanded="false" />
-            <element signature="e#6460#6461#0" expanded="false" />
-            <element signature="e#6519#6520#0" expanded="false" />
-            <element signature="e#6558#6559#0" expanded="false" />
-            <element signature="e#6623#6624#0" expanded="false" />
-            <element signature="e#6662#6663#0" expanded="false" />
-            <element signature="e#6724#6725#0" expanded="false" />
-            <element signature="e#6763#6764#0" expanded="false" />
-            <element signature="e#6838#6839#0" expanded="false" />
-            <element signature="e#6884#6885#0" expanded="false" />
-            <element signature="e#16803#16804#0" expanded="false" />
-            <element signature="e#16858#16859#0" expanded="false" />
-            <element signature="e#17475#17476#0" expanded="false" />
-            <element signature="e#17540#17541#0" expanded="false" />
-            <element signature="e#18157#18158#0" expanded="false" />
-            <element signature="e#18222#18223#0" expanded="false" />
-            <element signature="e#27827#27828#0" expanded="false" />
-            <element signature="e#27887#27888#0" expanded="false" />
-            <element signature="e#33990#33991#0" expanded="false" />
-            <element signature="e#34045#34046#0" expanded="false" />
-            <element signature="e#39693#39710#0" expanded="false" />
-            <element signature="e#47301#47328#0" expanded="false" />
-            <element signature="e#73331#73332#0" expanded="false" />
-            <element signature="e#73379#73380#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1150,9 +1095,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,8 +1111,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/euler/SpecialPythagoreanTriplet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5895954">
+        <state vertical-scroll-proportion="0.0">
           <caret line="23" column="58" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/util/SieveOfEratosthenes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/SummationOfPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4194079">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
